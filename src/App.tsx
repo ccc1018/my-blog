@@ -1,13 +1,10 @@
-import { useState } from "react";
-import { Button } from "@/components/ui/button";
-function App() {
-  const [count, setCount] = useState(0);
+import Layout from "@/layout/layout";
 
+function App() {
   return (
     <>
-      <div className="flex min-h-svh flex-col items-center justify-center">
-        <Button>Click me</Button>
-      </div>
+      <div className="h-6 w-6 text-blue-500"></div>
+      <Layout />
     </>
   );
 }

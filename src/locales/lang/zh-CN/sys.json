@@ -1,0 +1,11 @@
+{
+  "login":{
+    "signInFormTitle":"登录",
+    "signUpFormTitle": "注册",
+    "forgetFormTitle": "重置密码",
+    "diffpwd":"两次密码输入不一致",
+    "username":"用户名",
+    "password":"密码",
+    "confirmPassword":"确认密码"
+}
+}

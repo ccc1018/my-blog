@@ -1,0 +1,12 @@
+{
+  "login":{
+    "backSignIn": "Back sign in",
+    "signInFormTitle":"sign in",
+    "signUpFormTitle": "sign up",
+    "forgetFormTitle": "Reset Password",
+    "diffpwd":"The two passwords do not match",
+    "username":"Username",
+    "password":"Password",
+    "confirmPassword":"confirmPassword"
+}
+}
